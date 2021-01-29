@@ -1,6 +1,6 @@
 # JavaScript30
 My solution including #fixed bugs and #some extra added features.
-This is a group of projects chalenges to [Wes Bos'](https://github.com/wesbos) challenge course [JS30](https://javascript30.com/).
+This is a group of projects challenges to [Wes Bos'](https://github.com/wesbos) challenge course [JS30](https://javascript30.com/).
 
 
 # Challenges
