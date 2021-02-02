@@ -1,0 +1,35 @@
+:root{
+    --base:#00ffff;
+    --spacing:10px;
+    --blur:0px;
+    --border-radius: 10;
+}
+img{
+    width: 50%;
+    padding: var(--spacing);
+    border-radius: var(--border-radius);
+    background: var(--base);
+    filter: blur(var(--blur));
+}
+.h1{
+    color: var(--base);
+}
+
+body{
+    text-align: center;
+    background:repeating-linear-gradient(0deg, rgb(100, 255, 191) 0px, rgb(126, 245, 245) 1px,transparent 1px, transparent 16px),repeating-linear-gradient(90deg, rgb(128, 126, 248) 0px, rgb(181, 188, 255) 1px,transparent 1px, transparent 16px),linear-gradient(90deg, rgb(204, 203, 255),rgb(251, 172, 189));
+    color: rgb(105, 94, 94);
+    font-family: 'helvetica neue', sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+}
+
+.controls {
+    margin-bottom: 10px;
+}
+
+input {
+    width: 100px;
+}
+
+
