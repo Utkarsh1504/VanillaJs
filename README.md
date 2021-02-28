@@ -18,7 +18,7 @@ This is a group of projects challenges to [Wes Bos'](https://github.com/wesbos) 
 * Pause after challenge 4 and attempt to complete the rest of the challenges from what you’ve learned. Proceed after you solve or get stumped on each one.
 
 ## Day 05 - Flex Panel Gallery
-* No added challenges
+* 
 
 ## Day 06 - Type Ahead
 * Report if there are no matches in a clean way.
