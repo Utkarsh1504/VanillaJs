@@ -8,7 +8,7 @@ This is a group of projects challenges to [Wes Bos](https://github.com/wesbos) c
 ## [Day 01 - JavaScript Drum Kit](https://utkarsh1504.github.io/JavaScript30.github.io/Day-01/)
 * Make each “key” have a click trigger as well.
 
-## [Day 02 - JS and CSS Clock](https://utkarsh1504.github.io/JavaScript30.github.io/Day-02/)
+## [Day 02 - JS And CSS Clock](https://utkarsh1504.github.io/JavaScript30.github.io/Day-02/)
 * Fix the skipping animation for when a new cycle starts
 
 ## [Day 03 - CSS Variables](https://utkarsh1504.github.io/JavaScript30.github.io/Day-03/)
