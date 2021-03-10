@@ -1,11 +1,11 @@
 # JavaScript30
 My solution including fixed bugs and some extra added features.
-This is a group of projects challenges to [Wes Bos'](https://github.com/wesbos) challenge course [JS30](https://javascript30.com/).
+This is a group of projects challenges to [Wes Bos](https://github.com/wesbos) challenge course [JS30](https://javascript30.com/).
 
 
 # Challenges
 
-## Day 01 - JavaScript Drum Kit
+## [Day 01 - JavaScript Drum Kit](https://utkarsh1504.github.io/JavaScript30.github.io/Day-01/)
 * Make each “key” have a click trigger as well.
 
 ## Day 02 - JS and CSS Clock
