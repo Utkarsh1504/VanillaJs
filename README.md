@@ -5,41 +5,41 @@ This is a group of projects challenges to [Wes Bos](https://github.com/wesbos) c
 
 # Challenges
 
-## [Day 01 - JavaScript Drum Kit](https://utkarsh1504.github.io/JavaScript30.github.io/Day-01/)
+## [Day 01 - JavaScript Drum Kit](https://utkarsh1504.github.io/VanillaJs/Day-01/)
 * Make each “key” have a click trigger as well.
 
-## [Day 02 - JS And CSS Clock](https://utkarsh1504.github.io/JavaScript30.github.io/Day-02/)
+## [Day 02 - JS And CSS Clock](https://utkarsh1504.github.io/VanillaJs/Day-02/)
 * Fix the skipping animation for when a new cycle starts
 
-## [Day 03 - CSS Variables](https://utkarsh1504.github.io/JavaScript30.github.io/Day-03/)
+## [Day 03 - CSS Variables](https://utkarsh1504.github.io/VanillaJs/Day-03/)
 * Create an additional control using the previous controls as an example
 
-## [Day 04 - Array Cardio Day 1](https://utkarsh1504.github.io/JavaScript30.github.io/Day-04/)
+## [Day 04 - Array Cardio Day 1](https://utkarsh1504.github.io/VanillaJs/Day-04/)
 * Pause after challenge 4 and attempt to complete the rest of the challenges from what you’ve learned. Proceed after you solve or get stumped on each one.
 
-## [Day 05 - Flex Panel Gallery](https://utkarsh1504.github.io/JavaScript30.github.io/Day-05/)
+## [Day 05 - Flex Panel Gallery](https://utkarsh1504.github.io/VanillaJs/Day-05/)
 * 
 
-## [Day 06 - Type Ahead](https://utkarsh1504.github.io/JavaScript30.github.io/Day-06/)
+## [Day 06 - Type Ahead](https://utkarsh1504.github.io/VanillaJs/Day-06/)
 * Report if there are no matches in a clean way.
 * Return the original state if the search box is empty.
 
-## [Day 07 - Array Cardio Day 2](https://utkarsh1504.github.io/JavaScript30.github.io/Day-07/)
+## [Day 07 - Array Cardio Day 2](https://utkarsh1504.github.io/VanillaJs/Day-07/)
 * Similar to Day 04 - Attempt all challenges using only the inline comments as guidance. Unpause as needed and repeat for every challenge.
 
-## [Day 08 - Fun with HTML5 Canvas](https://utkarsh1504.github.io/JavaScript30.github.io/Day-08/)
+## [Day 08 - Fun with HTML5 Canvas](https://utkarsh1504.github.io/VanillaJs/Day-08/)
  
 * Pause at about the 13 minute mark and attempt to mimic his drawing mode (line width only).
 * Create a new tool that will act like an eraser. Consider binding this to right click.
 
-## [Day 09 - Dev Tools Domination](https://utkarsh1504.github.io/JavaScript30.github.io/Day-09/)
+## [Day 09 - Dev Tools Domination](https://utkarsh1504.github.io/VanillaJs/Day-09/)
 * No added challenges.
 
-## [Day 10 - Hold Shift and Check Checkboxes](https://utkarsh1504.github.io/JavaScript30.github.io/Day-10/)
+## [Day 10 - Hold Shift and Check Checkboxes](https://utkarsh1504.github.io/VanillaJs/Day-10/)
 * Make the multiple selections work for unselecting too
 * Attempt to complete with minimal use of the walkthrough
 
-## [Day 11 - Custom Video Player](https://utkarsh1504.github.io/JavaScript30.github.io/Day-11/)
+## [Day 11 - Custom Video Player](https://utkarsh1504.github.io/VanillaJs/Day-11/)
 * Pause video at the 13 minute mark and use what you’ve learned so far to build some additional functionality.
    
 
